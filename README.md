@@ -1,1 +1,2 @@
-# project-32-stone
+# p5.play-boilerplate
+Boiler plate for p5.play
